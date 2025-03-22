@@ -7,7 +7,7 @@ I'm a **student** passionate about solving **Data Structures and Algorithms (DSA
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **[e.g., DSA problems on LeetCode, a personal coding project]**
+- 🔭 Currently working on **[DSA problems on LeetCode, a personal coding project]**
 - 🌱 Learning **[ DSA ]**
 - 👯 Open to collaborate on **[coding challenges, open-source DSA projects]**
 - 💬 Ask me about **[ solving DSA puzzles]**
