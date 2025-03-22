@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Sanjay]
+# Hey there! 👋 I'm Sanjay
 
 
 
