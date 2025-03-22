@@ -48,4 +48,3 @@ I'm a **student** passionate about solving **Data Structures and Algorithms (DSA
 
 ---
 
-_"[Your favorite quote or tagline]"_
