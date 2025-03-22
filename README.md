@@ -12,7 +12,7 @@ I'm a **student** passionate about solving **Data Structures and Algorithms (DSA
 - 👯 Open to collaborate on **coding challenges, open-source DSA projects**
 - 💬 Ask me about **solving DSA puzzles**
 - 📫 Reach me at: **sanjaygampa938@gmail.com**
-- ⚡ Fun fact: ** I solved my first DSA problem after 10 tries—and loved it!**
+- ⚡ Fun fact: **I solved my first DSA problem after 10 tries—and loved it!**
 
 ---
 
