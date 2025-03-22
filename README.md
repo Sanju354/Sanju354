@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm [Sanjay]
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Sanjay+-+DSA+Enthusiast)
 
 I'm a **student** passionate about solving **Data Structures and Algorithms (DSA) problems** to hone my coding skills and unlock the power of efficient programming. I love diving into coding challenges, optimizing solutions, and learning how algorithms shape the tech world!
 
