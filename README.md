@@ -24,10 +24,9 @@ I'm a **student** passionate about solving **Data Structures and Algorithms (DSA
 ---
 
 ## 📊 GitHub Stats
-![sanjay](https://github-readme-stats.vercel.app/api?username=[Sanju354
-]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Sanju354
-]&layout=compact&theme=radical)
+## 📊 GitHub Stats
+![Sanju354's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanju354&show_icons=true&theme=radical)
+![Sanju354's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju354&layout=compact&theme=radical)
 
 ---
 
